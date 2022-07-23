@@ -5,6 +5,16 @@ effective but also helps them recognize certain objects without physically touch
 Basic idea:
 The idea is to create a device that detects the objects and gives audio output in real time. 
 
+Components used:-
+1. Pi zero w only  board
+2. Pi Camera
+3. Camera module
+4. SD card
+5. Li polymer battery
+6. Jumper wires 30 30
+7. Case(card board/plastic)
+
+
 Working:
 The following procedure that happens in the running loop of detecting objects is as follows: 
 Step 1: Taking the video input When the power supply is started, the Pi camera 
